@@ -1,2 +1,3 @@
-hello-cargo/target
-guessing_game/target
+./hello-cargo/target
+./guessing_game/target
+./variables/target
